@@ -1,0 +1,54 @@
+@font-face {
+    font-family:courgette;
+    src: url(../fonts/Courgette/Courgette-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: oswald;
+    src: url(../fonts/Oswald/Oswald-VariableFont_wght.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    font-family: oswald;
+}
+h2{
+    font-family: courgette;
+}
+.font-size-small{
+    font-size:smaller;
+}
+#accueil h2 {
+    font-family: oswald;
+}
+#accueil p {
+    font-family: oswald;
+    font-size: smaller;
+}
+aside label{
+    font-family: courgette;
+}
+aside input{
+    font-family: oswald;
+}
+#accueil{
+
+    font-family: courgette;
+}
+footer{
+    margin: 0px;
+    padding: 50px;
+    background-color: black;
+    color: white;
+}
+footer ul{
+    list-style: none;
+}
+footer h4{
+    font-family: courgette, oswald;
+    font-style: italic;
+}
+footer label{
+    font-family: courgette;
+}

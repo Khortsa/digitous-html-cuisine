@@ -1,0 +1,33 @@
+@font-face {
+    font-family:courgette;
+    src: url(../fonts/Courgette/Courgette-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: oswald;
+    src: url(../fonts/Oswald/Oswald-VariableFont_wght.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+header{
+    background-image: url("../img/team/team.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
+nav{
+    background-color: #000000ac;
+}
+.header-content{
+    height:22rem;
+    background-color: #000000ac;
+    font-family: courgette;
+}
+
+body{
+    font-family: oswald;
+}
+h2{
+    font-family: courgette;
+}

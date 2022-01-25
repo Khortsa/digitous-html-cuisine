@@ -1,0 +1,19 @@
+header{
+    background-image: url("../img/header.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
+
+nav{
+    background-color: #000000ac;
+}
+.header-content{
+    height:22rem;
+    background-color: #000000ac;
+    font-family: courgette;
+}
+#accueil img{
+    height: 150px;
+    width: 250px;
+}
