@@ -1,0 +1,16 @@
+header{
+    background-image: url("../img/articles/suzette/suzette-header.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+}
+.header-content{
+    height:0;
+    background-color: none;
+    font-family: courgette;
+} 
+.header-content h2{
+    height: 3rem;
+    background-color: #000000ac;
+    text-align: start;
+}
